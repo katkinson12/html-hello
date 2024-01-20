@@ -1,0 +1,11 @@
+
+  .card-body {
+    padding-bottom: 10px; 
+  }
+  .button-section {
+    margin-top: 10px;
+  }
+  .card-footer{
+    background-color: gray;
+    padding: 4px;
+  }
